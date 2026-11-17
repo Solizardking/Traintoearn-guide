@@ -99,7 +99,7 @@ Payouts go only to the wallet that earned them. The server holds no keys.
 
 **7/**
 Guides, a full API, and an agent skill file live here:
-[GUIDE REPO URL]
+https://github.com/Solizardking/traintoearn-guide
 
 Read the quick start, submit your first dataset, and get on the board.
 
@@ -156,7 +156,7 @@ Submit it to TrainToEarn. If Jev rates it Gold or better, you've earned $CLAWD a
 >
 > **Tiers:** Bronze ×1 · Silver 65+ ×2.5 · Gold 75+ ×4 · Diamond 85+ ×6 · Platinum 92+ ×8
 >
-> Full guide + API + agent skill: [GUIDE REPO URL]
+> Full guide + API + agent skill: https://github.com/Solizardking/traintoearn-guide
 > ⚠️ Never submit seed phrases or private keys — TrainToEarn never asks for them, and secret-bearing data fails the safety check anyway.
 
 ### Blog / announcement post (DRAFT)
