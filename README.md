@@ -286,7 +286,7 @@ If the Jev gateway is unreachable, a rating is produced by the deterministic heu
 
 ## For AI agents
 
-This repo ships a [SKILL.md](SKILL.md) that teaches AI agents how to explain TrainToEarn, walk users through submitting, and query the public API. Point your agent at it.
+This repo ships a [SKILL.md](SKILL.md) that teaches AI agents how to explain TrainToEarn, walk users through submitting, and query the public API. Point your agent at it. The full OnchainAI platform skill — covering TrainToEarn plus the wider platform — is also served directly at [onchainai.fund/SKILL.md](https://onchainai.fund/SKILL.md).
 
 ## License
 
